@@ -1,9 +1,0 @@
-development:
-  adapter: mysql2
-  encoding: utf8
-  pool: 5
-  username: admin
-  password: teamteam5!
-  host: database-1.cf8yasooyira.ap-southeast-2.rds.amazonaws.com
-  port: 3306
-  database: database-1
